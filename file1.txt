@@ -1,0 +1,3 @@
+web-based platform for storing, sharing, and collaborating on code and projects, using the version control system (VCS) called Git. 
+It acts as a social network for developers, allowing them to work together efficiently, 
+it track changes, and manage projects. 
