@@ -1,0 +1,3 @@
+A commit is a "snapshot" or saved record of changes made to a file or set of files within a branch. Each commit has a message describing the changes.
+ull Requests (PRs): When work on a branch is complete, a developer opens a pull request to propose merging their changes into another branch (usually main). This is a chance for other team members to review the code, discuss changes, and suggest improvements before the merge is confirmed. 
+Collaboration: Multiple people can work on the same project simultaneously without overwriting each other's work.
