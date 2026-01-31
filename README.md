@@ -1,4 +1,4 @@
 # github-lab-practical
 Just for Practical
-learn how to submit issue
-also create pull request
+<br> learn how to submit issue
+<br> also create pull request
