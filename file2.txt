@@ -1,0 +1,3 @@
+A repository is like a project folder where all files and their revision histories are stored. They can be public (visible to everyone) or private.
+Version Control: This system tracks every change to the code over time, noting who made the change, when, and why. This allows teams to experiment safely and revert to previous versions if needed.
+Branches: Developers create branches to work on new features or fixes independently of the main project (the main branch). This prevents changes from breaking the main codebase until they are ready to be integrated.
